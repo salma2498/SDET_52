@@ -8,7 +8,7 @@ public class Githubtest {
 	{
 		System.out.println("Hi");
 	}
-	@Test(groups = "regression")
+	@Test
 	public void testu()
 	{
 		System.out.println("I am ");
