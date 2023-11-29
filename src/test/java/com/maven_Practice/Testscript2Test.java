@@ -17,7 +17,10 @@ public class Testscript2Test {
 	public void tests6()
 	{
 		System.out.println("---Testscript-6---");
+		System.out.println("hi");
+		
 	}
 
 
 }
+
